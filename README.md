@@ -6,9 +6,13 @@ This repository contains a complete collection of materials for Projects 2 (Quan
 
 ### An overview of the files in this repository:
 -> Presentation powerpoint
-/Project 2 Directory
+Project 2 Directory
+  - README.md - project 2 running instructions
   - code
   - report
-/Project 3 Directory
+  - results and logs
+Project 3 Directory
+  - README.md - project 3 running instructions
   - code
   - report
+  - results and logs
