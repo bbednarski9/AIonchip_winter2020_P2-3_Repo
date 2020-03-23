@@ -1,6 +1,5 @@
 ## Project 2 - Yolo-V3 Network Quantization and Evaluation
 
-### Code Base Configuration
 
 Follow instructions to download and configure the tvm compiler and Project 2 code base:
 
@@ -10,6 +9,7 @@ Follow instructions to download and configure the tvm compiler and Project 2 cod
 
 **Yolo-V3 Pytorch implementation from https://github.com/eriklindernoren/PyTorch-YOLOv3**
 
+### Code Base Configuration
 
 ```
 cmd> cd ~/ROOT_PATH
@@ -45,6 +45,8 @@ Change to image preprocessing repository and run script:
 cmd(venv)> cd ~/ROOT_PATH/Quantization_PJ2/image_processing
 cmd(venv)> python preprocess.py
 ```
+
+### Evaluation
 
 Change directories back to main project 2 source
 ```
