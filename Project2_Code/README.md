@@ -8,7 +8,7 @@ Follow instructions to download and configure the tvm compiler and Project 2 cod
 
 **TVM compiler code from https://github.com/apache/incubator-tvm**
 
-**Yolo-V3 Pytorch implementation from https://github.com/eriklindernoren/PyTorch-YOLOv3*
+**Yolo-V3 Pytorch implementation from https://github.com/eriklindernoren/PyTorch-YOLOv3**
 
 
 ```
