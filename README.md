@@ -17,7 +17,7 @@ This repository contains a complete collection of materials for Projects 2 (Quan
 
 -> Project 2 Report (ECE209_Project2_Quantization.pdf)
 
--> Project 3 Report 
+-> Project 3 Report (ECE209_Project3_Pruning.pdf)
 
 -> Project 2/3 Final Presentation Slides (P2_P3_Prezentation_slides.zip)
   
