@@ -10,16 +10,14 @@ This repository contains a complete collection of materials for Projects 2 (Quan
 -> Project 2 Directory
   - README.md - project 2 running instructions
   - code
-  - raw results and logs
-  
+ 
 -> Project 3 Directory
   - README.md - project 3 running instructions
   - code
-  - raw results and logs
 
 -> Project 2 Report (ECE209_Project2_Quantization.pdf)
 
--> Project 3 Report
+-> Project 3 Report 
 
 -> Project 2/3 Final Presentation Slides (P2_P3_Prezentation_slides.zip)
   
